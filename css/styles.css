@@ -497,33 +497,3 @@ address .contacts {
   justify-content: space-between;
   align-items: center;
 }
-/*нав хедера і футера
-.site-nav,
-.contacts {
-  font-size: 14px;
-  line-height: 1.625;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-}
-.site-nav a {
-  color: var(--primary-title-color);
-  padding-top: 32px;
-  padding-bottom: 32px;
-}
-.site-nav a:hover,
-.site-nav a:focus {
-  color: var(--accent-color);
-}
-.contacts a {
-  color: var(--primary-text-color);
-  font-style: normal;
-  padding-top: 32px;
-  padding-bottom: 32px;
-}
-.contacts a:hover,
-.contacts a:focus {
-  color: var(--accent-color);
-}
-.site-nav .link.current {
-  color: var(--accent-color);
-}*/
